@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./LOGOch.png";
 import search_icon from "./search_icon.svg";
 import company_icon from "./company_icon.svg";
 import microsoft_logo from "./microsoft_logo.svg";
@@ -73,24 +73,83 @@ export const assets = {
 }
 
 export const JobCategories = [
-    "Programming",
-    "Data Science",
+    "Computer Science",
+    "Mechanical Engineering",
+    "Chemical Engineering",
+    "Electrical Engineering",
+    "Biology",
+    "Languages",
+    "Economics & Management",
+    "Medicine",
+    "Civil Engineering",
+    "Electrical Engineering",
+    "Architecture",
+     "Marketing",
     "Designing",
-    "Networking",
-    "Management",
-    "Marketing",
-    "Cybersecurity",
-]
+     "Others : (Specify in description)",
+
+];
 
 export const JobLocations = [
-    "Bangalore",
-    "Washington",
-    "Hyderabad",
-    "Mumbai",
-    "California",
-    "Chennai",
-    "New York"
-]
+    "Adrar",
+    "Chlef",
+    "Laghouat",
+    "Oum El Bouaghi",
+    "Batna",
+    "Béjaïa",
+    "Biskra",
+    "Béchar",
+    "Blida",
+    "Bouira",
+    "Tamanrasset",
+    "Tébessa",
+    "Tlemcen",
+    "Tiaret",
+    "Tizi Ouzou",
+    "Alger",
+    "Djelfa",
+    "Jijel",
+    "Sétif",
+    "Saïda",
+    "Skikda",
+    "Sidi Bel Abbès",
+    "Annaba",
+    "Guelma",
+    "Constantine",
+    "Médéa",
+    "Mostaganem",
+    "M'Sila",
+    "Mascara",
+    "Ouargla",
+    "Oran",
+    "El Bayadh",
+    "Illizi",
+    "Bordj Bou Arréridj",
+    "Boumerdès",
+    "El Tarf",
+    "Tindouf",
+    "Tissemsilt",
+    "El Oued",
+    "Khenchela",
+    "Souk Ahras",
+    "Tipaza",
+    "Mila",
+    "Aïn Defla",
+    "Naâma",
+    "Aïn Témouchent",
+    "Ghardaïa",
+    "Relizane",
+    "Timimoun",
+    "Bordj Badji Mokhtar",
+    "Ouled Djellal",
+    "Béni Abbès",
+    "In Salah",
+    "In Guezzam",
+    "Touggourt",
+    "Djanet",
+    "El M'Ghair",
+    "El Meniaa"
+];
 
 // Sample data for Manage Jobs Page
 export const manageJobsData = [
