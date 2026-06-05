@@ -101,6 +101,7 @@ const AddJob = () => {
                         <option value="Beginner level">Beginner level</option>
                         <option value="Intermediate level">Intermediate level</option>
                         <option value="Senior level">Senior level</option>
+                        <option value="Internship">Internship</option>
                     </select>
                 </div>
 
